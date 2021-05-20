@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.50](https://github.com/artmlg/conventional-changelog-retro-demo/compare/v0.0.49...v0.0.50) (2021-05-20)
+
+
+### Features
+
+* Test non empty ([4f108ca](https://github.com/artmlg/conventional-changelog-retro-demo/commit/4f108ca27a021a01efe2748c7b7a484537da30b8))
+
 ### [0.0.49](https://github.com/artmlg/conventional-changelog-retro-demo/compare/v0.0.48...v0.0.49) (2021-05-20)
 
 ### [0.0.48](https://github.com/artmlg/conventional-changelog-retro-demo/compare/v0.0.47...v0.0.48) (2021-05-20)
